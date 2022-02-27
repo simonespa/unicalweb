@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+#gruppo-progetto {
+	position:absolute;
+	width:1110px;
+	height:60px;
+	z-index:1;
+	left: 70px;
+	top: 210px;
+}
+
+#stud1 {
+	position:absolute;
+	width:200px;
+	height:195px;
+	z-index:1;
+	left: 70px;
+	top: 320px;
+}
+
+#stud2 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:1;
+	left: 370px;
+	top: 320px;
+}
+
+#stud3 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:1;
+	left: 690px;
+	top: 320px;
+}
+
+#stud4 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:1;
+	left: 980px;
+	top: 320px;
+}
+
+#submit {
+	position:absolute;
+	width:200px;
+	height:29px;
+	z-index:1;
+	left: 530px;
+	top: 570px;
+}
+
+#paginaIniziale {
+	position:absolute;
+	width:200px;
+	height:29px;
+	z-index:1;
+	left: 82px;
+	top: 555px;
+}
